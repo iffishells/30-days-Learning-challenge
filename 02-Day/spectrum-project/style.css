@@ -1,0 +1,36 @@
+
+#spec
+{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    
+}
+.project
+{
+    border: 12px solid black;
+    border-width: 50px;
+    padding: 2em 2em 2em 2em;
+}
+
+#one{ 
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+
+}
+#two{
+    background-color: red;
+    width: 100px;
+    height: 200px;
+}
+#three{
+   background-color: salmon;
+   width: 100px;
+    height: 200px;
+}
+#four{
+    background-color: springgreen;
+    width: 100px;
+    height: 200px;
+}
+
