@@ -1,0 +1,32 @@
+.coffee
+{
+    background-color :#f7f7f7;
+    text-align: center;
+    margin-top: 2em ;
+    margin-left: 10%;
+    margin-right: 20%;
+    padding-left: 2em;
+    padding-right: 2em;
+    height: 20em;
+    width: 60em;
+    font-size: 20px;
+}
+.lover img
+{
+    height: 12em;
+
+
+}
+#ahsan
+{
+    margin-left: 2em;
+    margin-right: 1em;
+    margin-bottom: 2%;
+}
+#iftikhar
+{
+    margin-left: 0px;
+}
+form{
+    text-align: center;
+}
