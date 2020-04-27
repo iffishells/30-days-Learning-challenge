@@ -1,0 +1,19 @@
+body{
+    background-color: cadetblue;
+}
+#form_registration
+{
+    margin: 10% 10% 10% 10%;
+    border: 2px solid black;
+    padding: 5% 5% 5% 5%;
+    background-color: #ff2e63 ;
+    
+    
+}
+#para  ,h1
+{
+    font-weight: 400;
+    font-size: 40px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
