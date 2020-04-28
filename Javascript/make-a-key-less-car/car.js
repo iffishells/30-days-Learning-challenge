@@ -16,4 +16,3 @@ function drive_the_car(age) {
 
 drive_the_car(100)
 
-

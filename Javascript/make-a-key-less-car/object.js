@@ -2,8 +2,8 @@
 
 var pass =[
 {
-	username : "iftikhar";
-	pasdword : "iftikhar123";
+	username : "iftikhar",
+	pasdword : "iftikhar123"
 }
 ]
 
