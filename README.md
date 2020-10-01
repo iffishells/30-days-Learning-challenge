@@ -1,5 +1,5 @@
 # 30-days-Learning-challenge
-It's Covid-19 learn something new with us in this Pandemic.
+It's Covid-19, learn something new with us in this Pandemic.
 
 # Python Django framework
 I will take this journey in way that day by day with code and some little project 
